@@ -1,6 +1,6 @@
 # Hi, I'm Iurii Okhmat
 
-**Engineering Manager & Technical Leader | 20+ Years Building Software | Still Writing Code**
+**Engineering Manager & Technical Leader | 20+ Years Building Software**
 
 I'm an engineering leader who believes you can't effectively lead engineers if you've lost touch with what they're actually dealing with every day. That's why I still spend time writing code - designing architectures, implementing features, and solving technical problems alongside my team.
 
