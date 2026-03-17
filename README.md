@@ -2,7 +2,7 @@
 
 **Engineering Manager & Technical Leader | 20+ Years Building Software | Still Writing Code**
 
-I'm an engineering leader who believes you can't effectively lead engineers if you've lost touch with what they're actually dealing with every day. That's why I still spend 35-40% of my time writing code—designing architectures, implementing features, and solving technical problems alongside my team.
+I'm an engineering leader who believes you can't effectively lead engineers if you've lost touch with what they're actually dealing with every day. That's why I still spend time writing code - designing architectures, implementing features, and solving technical problems alongside my team.
 
 ## Current Role
 
@@ -11,7 +11,7 @@ Engineering Manager at **INRIX**
 ## Core Expertise
 
 **Frontend & Full-Stack:**
-- Vue.js, Nuxt.js, React, TypeScript, Node.js, NestJS
+- Vue.js, Nuxt.js, TypeScript, Node.js, NestJS
 - Complex data visualization (D3.js, Deck.gl, Mapbox GL)
 - GraphQL, RESTful APIs, WebSockets
 
@@ -28,7 +28,7 @@ Engineering Manager at **INRIX**
 
 ## Why This Profile is Minimal
 
-Most of my work over the past 20+ years lives in private repositories for my employers—production systems, enterprise platforms generating real business value, and infrastructure that requires five 9s uptime.
+Most of my work over the past 20+ years lives in private repositories for my employers — production systems, enterprise platforms generating real business value, and infrastructure that requires five 9s uptime.
 
 This GitHub profile represents personal learning and exploration outside of professional work. It's a space for experimentation, not a portfolio of my best work.
 
@@ -36,11 +36,11 @@ For a comprehensive view of my professional achievements, system architecture ex
 
 ## Connect
 
-If you're building something meaningful and need someone who can architect systems, write production code, and lead teams—let's talk.
+If you're building something meaningful and need someone who can architect systems, write production code, and lead teams - let's talk.
 
 - **LinkedIn:** [www.linkedin.com/in/iuriiokhmat](www.linkedin.com/in/iuriiokhmat)
 - **Email:** iurii.okhmat.social@gmail.com
-- **Location:** Bothell, WA (Greater Seattle Area)
+- **Location:** Greater Seattle Area
 
 ---
 
