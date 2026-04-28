@@ -38,6 +38,7 @@ For a comprehensive view of my professional achievements, system architecture ex
 
 If you're building something meaningful and need someone who can architect systems, write production code, and lead teams - let's talk.
 
+- **Blog:** [https://www.iuriio.com/](https://www.iuriio.com/)
 - **LinkedIn:** [www.linkedin.com/in/iuriiokhmat](www.linkedin.com/in/iuriiokhmat)
 - **Email:** iurii.okhmat.social@gmail.com
 - **Location:** Greater Seattle Area
